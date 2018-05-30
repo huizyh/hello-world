@@ -8,5 +8,5 @@ branch-third
 =======
 branch-second
 >>>>>>> feature1
-third
+dev
 
